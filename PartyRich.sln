@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartyRich", "PartyRich\PartyRich.csproj", "{89F5E2DC-8693-4567-8204-6C3BE5E8A9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyRichDesign", "PartyRichDesign\PartyRichDesign.csproj", "{70EFEABE-C850-4A75-B89B-1AC41D8A6FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F5E2DC-8693-4567-8204-6C3BE5E8A9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F5E2DC-8693-4567-8204-6C3BE5E8A9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F5E2DC-8693-4567-8204-6C3BE5E8A9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F5E2DC-8693-4567-8204-6C3BE5E8A9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EFEABE-C850-4A75-B89B-1AC41D8A6FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EFEABE-C850-4A75-B89B-1AC41D8A6FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EFEABE-C850-4A75-B89B-1AC41D8A6FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EFEABE-C850-4A75-B89B-1AC41D8A6FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45157C90-F6F7-40C4-8D84-CA53FE4EFA7B}
+	EndGlobalSection
+EndGlobal
